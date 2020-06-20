@@ -1,0 +1,5 @@
+Veri Yapilari 65
+Bilisim Etigi 100
+Mobil Programlama 45
+Bilisim Hukuku 100
+Lineer Cebir 33

@@ -1,0 +1,6 @@
+Derse gelen ogrenci sayisi: 5
+Derse gelmeyen ogrenci sayisi: 87
+Derse gelen ogrenci sayisi: 65
+Derse gelmeyen ogrenci sayisi: 45
+Derse gelen ogrenci sayisi: 45
+Derse gelmeyen ogrenci sayisi: 12

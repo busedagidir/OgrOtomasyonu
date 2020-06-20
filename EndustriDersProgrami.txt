@@ -1,0 +1,18 @@
+//1.YY DERSLERI//
+*PAZARTESI*Endustri Muhendisligine Giris
+*SALI*Matematik-1
+*CARSAMBA*Genel Kimya
+*PERSEMBE*Fizik-1
+*CUMA*Fizik-1
+//2.YY DERSLERI//
+*PAZARTESI*Yapisal Programlama
+*SALI*Fizik-2
+*CARSAMBA*Matematik-2
+*PERSEMBE*Fizik-2
+*CUMA*Yapisal Programlama
+//2.YY DERSLERI//
+*PAZARTESI*Fizik-2
+*SALI*Matematik-2
+*CARSAMBA*Yapisal Programlama
+*PERSEMBE*Fizik-2
+*CUMA*Matematik-2

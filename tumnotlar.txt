@@ -1,0 +1,21 @@
+********
+1306180050 Buse Dagidir
+Veri Yapilari 65
+Bilisim Etigi 100
+Mobil Programlama 45
+Bilisim Hukuku 100
+Lineer Cebir 33
+********
+13064587211 Ali Mehmet
+Veri Yapilari 54
+Bilisim Etigi 100
+Mobil Programlama 85
+Bilisim Hukuku 10
+Lineer Cebir 99
+********
+1306180032 Alican Dagidir
+Hukuk Başlangıcı ve Metodolojisi 98
+Anayasa Hukuk 100
+Medeni Hukuk I (Temel Kavramlar ve Kişiler Hukuku) 66
+Hukuk Terminolojisi I 100
+Hukuk Tarihi I 74

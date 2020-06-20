@@ -1,0 +1,12 @@
+Adi:gulcan
+Soyad:dagidir
+T.C.:59645636852
+Dogum:15/10/1977
+Bolum:isletme
+*******
+Adi:Buse
+Soyad:Dagidir
+T.C:20399601718
+Dogum:02/02/1999
+Bolum:Bilgisayar Muhendisligi
+
